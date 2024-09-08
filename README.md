@@ -1,20 +1,20 @@
 <div>
-    <div>
+    <div align="left">
+        <p>
         <h2>Sobre mim</h2>
-        <p align="left">
         Meu nome é Leonardo, tenho 20 anos e sou um apaixonado pela programação. Estou em busca de me tornar um desenvolvedor full stack, com ênfase no backend e lógica de programação. Minhas habilidades incluem HTML, CSS, Java e muito mais. Estou determinado a enfrentar desafios e crescer profissionalmente nesse campo empolgante.
         </p>
         <div>
+            <div>
             <strong>🎇 FRONTEND</strong>
-            <div align="left">
                 <p>
                     <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5" alt="HTML">
                     <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
                     <img src="https://img.shields.io/badge/-reactjs-05122A?style=for-the-badge&logo=react&logoColor=2F6DB9" alt="ReactJS">
                 </p>
             </div>
+            <div>
             <strong>💾 BACKEND</strong>
-            <div align="left">
                 <p>
                     <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white" alt="Java">
                     <img src="https://img.shields.io/badge/-nodejs-05122A?style=for-the-badge&logo=nodedotjs" alt="Node.js">
@@ -27,17 +27,19 @@
                     <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript&logoColor=4479A1" alt="TypeScript">
                 </p>
             </div>
-        </div>
-        <strong>⚒ Ferramentas</strong>
-        <div align="left">
-            <img src="https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code">
-            <img src="https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion" alt="Notion">
-            <img src="https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma" alt="Figma">
-            <img src="https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman" alt="Postman">
-            <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows" alt="Windows">
-            <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub">
-            <img src="https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=Vercel&logoColor=4479A1" alt="Vercel">
-            <img src="https://img.shields.io/badge/-Onrender-05122A?style=for-the-badge&logo=Onrender&logoColor=4479A1" alt="Onrender">
+            <div>
+            <strong >⚒ Ferramentas</strong>
+                <p>
+                    <img src="https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code">
+                    <img src="https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion" alt="Notion">
+                    <img src="https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma" alt="Figma">
+                    <img src="https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman" alt="Postman">
+                    <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows" alt="Windows">
+                    <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub">
+                    <img src="https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=Vercel&logoColor=4479A1" alt="Vercel">
+                    <img src="https://img.shields.io/badge/-Onrender-05122A?style=for-the-badge&logo=Onrender&logoColor=4479A1" alt="Onrender">
+                </p>
+            </div>
         </div>
     </div>
 </div>
