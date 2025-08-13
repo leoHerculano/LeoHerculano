@@ -1,9 +1,7 @@
 <div>
     <div align="left">
         <p>
-        <h2>Sobre mim</h2>
-        Meu nome é Leonardo, tenho 20 anos e sou um apaixonado pela programação. Estou em busca de me tornar um desenvolvedor full stack, com ênfase no backend e lógica de programação. Minhas habilidades incluem HTML, CSS, Java e muito mais. Estou determinado a enfrentar desafios e crescer profissionalmente nesse campo empolgante.
-        </p>
+        <h2>Sobre mim</h2>Com 21 anos, a tecnologia me encanta e minha trajetória inclui uma graduação em Administração. Estou cursando atualmente Engenharia de Software na FIAP, além de estar aprimorando meu inglês. Sou do tipo de pessoa que busca soluções, focado em atingir metas e adoro desafios que me dão a chance de usar e refinar o que sei.</p>
         <div>
             <div>
             <strong>🎇 FRONTEND</strong>
